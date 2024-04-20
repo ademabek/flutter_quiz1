@@ -20,5 +20,6 @@ Hourly Forecast: Provide an hourly forecast for the next 24 hours, showing the e
 Daily Forecast: Show a multi-day forecast (e.g., 7-day forecast) to let users plan ahead.
 Customization Options: Allow users to customize the app's appearance, units (e.g., Celsius vs. Fahrenheit), and weather data sources.
 Location-based Weather: Use the device's location to automatically fetch weather data for the user's current location. You can also allow users to manually search for weather information for specific locations.
+
 ![Снимок экрана 2024-04-20 140434](https://github.com/ademabek/flutter_quiz1/assets/144406245/f443cf75-a32d-4a3f-a25b-4651723cbb2d)
 
