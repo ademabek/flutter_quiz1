@@ -2,7 +2,7 @@
 
 A new Flutter project and quiz projet that i made in 2 lessons
 
-## Getting Started
+## About project
 
 This project is a starting point for a Flutter application.
 
@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-#Current Weather
+### Features 
 Current Weather: Display the current weather conditions including temperature, humidity, wind speed, and description (e.g., sunny, cloudy, rainy).
 Hourly Forecast: Provide an hourly forecast for the next 24 hours, showing the expected weather conditions at different times of the day.
 Daily Forecast: Show a multi-day forecast (e.g., 7-day forecast) to let users plan ahead.
